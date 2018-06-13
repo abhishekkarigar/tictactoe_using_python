@@ -8,3 +8,4 @@ to run
   
 NOTE:
   the above code is written in python3
+  for python 2.7 make appropriate changes
